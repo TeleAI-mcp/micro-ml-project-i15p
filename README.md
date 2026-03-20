@@ -1,2 +1,3 @@
-# micro-ml-project-i15p
+# Micro Ml Project I15P
+
 A repository to test GitHub automation for issue management.
